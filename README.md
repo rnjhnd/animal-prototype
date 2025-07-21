@@ -1,4 +1,4 @@
-# Prototype-Design-Pattern
+# Animal Instance Manager
 
 ### UML Class Diagram:
 
